@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero1{
+    background-image: url(../Imagenes/yamaha-mt-10-2022-1.jpeg);
+    height: 90vh;
+}
+
+.hero3{
+    background-image: url(../Imagenes/MT03/MT033.jpeg);
+    height: 130vh;
+}
+
+.hero7{
+    background-image: url(../Imagenes/MT07/_.jpeg);
+    height: 120vh;
+}
+
+.hero9{
+    background-image: url(../Imagenes/MT09/_\ \(1\).jpeg);
+    height: 130vh;
+}
+
+.hero10{
+    background-image: url(../Imagenes/MT10/Yamaha\ mt10.jpeg);
+    height: 130vh;
+}
