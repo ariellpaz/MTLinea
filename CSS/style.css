@@ -7,6 +7,14 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.Fondopagina {
+    background-color: rgb(32, 76, 153);
+}
+
+.Fondopagina2 {
+    background-color: black;
+}
+
 .hero1{
     background-image: url(../Imagenes/yamaha-mt-10-2022-1.jpeg);
     height: 90vh;

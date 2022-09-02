@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $fontRoboto;
+
+    &.Fondopagina {
+        background-color: $fondoPagina;
+    }
+    
+    .Fondopagina2 {
+        background-color: $fondoPagina2;
+    }
+}
